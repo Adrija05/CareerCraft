@@ -88,7 +88,16 @@ export const Footer = () => {
           {/* Fourth Column: Address and Social Media */}
           <div>
             <h3 className="font-bold text-lg mb-4">Contact Us</h3>
-            <p className="mb-4">123 AI Street, Tech City, 12345</p>
+            <p className="mb-4">
+AI Mock Interviews Inc.
+123 Future Lane
+Techville, CA 94016
+United States
+📞 Phone:
++1 (555) 123-4567
+Monday – Friday: 9:00 AM – 6:00 PM (PST)
+
+</p>
             <div className="flex gap-4">
               <SocialLink
                 href="https://facebook.com"

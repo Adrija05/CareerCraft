@@ -13,13 +13,13 @@ const HomePage = () => {
         <div className="my-8">
           <h2 className="text-3xl text-center md:text-left md:text-6xl">
             <span className=" text-outline font-extrabold md:text-8xl">
-              AI Superpower
+              CareerCraft
             </span>
             <span className="text-gray-500 font-extrabold">
-              - A better way to
+              - Gateway to Success
             </span>
             <br />
-            improve your interview chances and skills
+            Master Interviews, Unlock Success.
           </h2>
 
           <p className="mt-4 text-muted-foreground text-sm">
